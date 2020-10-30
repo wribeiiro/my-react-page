@@ -1,4 +1,4 @@
-# react-website-v2
+# my-react-page
 Created a simple website with reusabled components in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
